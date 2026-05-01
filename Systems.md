@@ -21,6 +21,11 @@ sudo ufw reload
 sudo ufw status verbose
 
 
+七舅姥爷一键安装脚本：
+wget git.io/tcp-wss.sh && bash tcp-wss.sh
 
+bash <(curl -sL kejilion.sh)
+
+wget https://git.io/wireguard -O wireguard-install.sh && bash wireguard-install.sh
 
 这是非常隐私的档案。
